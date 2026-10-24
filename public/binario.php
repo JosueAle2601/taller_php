@@ -104,7 +104,7 @@ require_once __DIR__ . '/../src/views/header.php';
 
         <?php endif; ?>
 
-        <a href="index.php" class="enlace-regreso">
+        <a href="home.php" class="enlace-regreso">
             ← Volver al menú principal
         </a>
 

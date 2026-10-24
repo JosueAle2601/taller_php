@@ -247,7 +247,7 @@ require_once __DIR__ . '/../src/views/header.php';
                 <span>Calculadora</span>
             </div>
 
-            <a href="index.php" class="calculadora-volver">
+            <a href="home.php" class="calculadora-volver">
                 Volver al menú
             </a>
         </div>

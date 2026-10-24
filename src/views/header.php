@@ -20,7 +20,7 @@ $tituloPagina = $tituloPagina ?? 'Inicio';
     <header class="cabecera">
         <div class="contenido-cabecera">
 
-            <a href="index.php" class="logo">
+            <a href="home.php" class="logo">
                 <span class="logo-icono">PHP</span>
                 <span class="logo-texto">Ejercicios en PHP</span>
             </a>
